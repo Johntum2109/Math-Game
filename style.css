@@ -118,3 +118,13 @@ body
 #player1p{
 	font-size: 25px;
 }
+
+.send{
+	margin-top: 10px;
+}
+
+#output{
+	background: white;
+	border-radius: 35px;
+	border-top: 10px solid #f13333;
+}
